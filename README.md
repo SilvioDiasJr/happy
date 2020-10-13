@@ -1,6 +1,6 @@
 <h1 align="center">Happy</h1>
 
-<p align="center">Pe</p>
+<p align="center">Faça uma visita para crianças em orfanetos, pequenos gestos geram grandes alegrias!</p>
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
@@ -34,7 +34,7 @@ Projeto construido durante a 3a NLW da [Rocketseat](https://rocketseat.com.br/).
 <p align="center">
   <img alt="Happy Web" title="Happy Web" src="./assets/landing.png" width="800px">
 
-  <img alt="Happy Web" title="Happy Web" src="./assets/orphanages.png" width="800px">
+  <img alt="Happy Web" title="Happy Web" src="./assets/orphanages-map.png" width="800px">
 </p>
 
 ---
@@ -46,9 +46,8 @@ Projeto construido durante a 3a NLW da [Rocketseat](https://rocketseat.com.br/).
 É necessário ter instalado na sua máquina para execução desse projeto:
 - <a href="https://nodejs.org/en/"> NodeJS </a>;
 - Gerenciador de pacotes Npm(já vem com o NodeJS) ou <a href="https://yarnpkg.com/getting-started/install"> Yarn </a>;
-- <a href="https://pt-br.reactjs.org/"> React </a>
+- <a href="https://pt-br.reactjs.org/"> React </a>;
 
-> Em breve mais detalhes...
 
 ### ♊ Clonando o Repositório
 
@@ -61,7 +60,7 @@ $ git clone https://github.com/heyloh/happy.git
 $ cd happy
 
 ```
-### 💻 Rodando o Happy web
+### 💻 Executando projeto web
 
 Entre na pasta
 
@@ -94,16 +93,11 @@ $ npm start
 
 ```
 
-Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
-ter este trabalho, sem problemas, por padrão já tem um mapa configurado para uso.
-
-Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
-
-### 🌐 Rodando o Servidor
+### 🌐 Executando o servidor do projeto
 
 > Em breve...
 
-### 📱 Rodando o Happy mobile 
+### 📱 Executando o projeto mobile 
 
 > Em breve...
 
@@ -124,7 +118,7 @@ Para utilizar  o mapbox siga as intruções abaixo.
 
 ## 🛠️ Tecnologias
 
-As ferramentas usadas no desenvolvimento do projeto.
+Principais tecnologias utilizadas no desenvolvimento do projeto.
 
 #### Backend:
 > Em breve...
@@ -155,5 +149,5 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 Este projeto está sob licença [MIT](./LICENSE).
 
-<p>Feito com 💙 por Silvio Dias</p>
+<p>Feito com 💙 por <a href="https://www.linkedin.com/in/silviodiasjr/">Silvio Dias</a></p>
 
