@@ -101,9 +101,6 @@ $ npm start
 
 > Em breve...
 
-<br>
-
-Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
 
 ---
 
