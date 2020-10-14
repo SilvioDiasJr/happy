@@ -53,7 +53,7 @@ Projeto construido durante a 3a NLW da [Rocketseat](https://rocketseat.com.br/).
 
 ```bash
 
-$ git clone https://github.com/heyloh/happy.git
+$ git clone https://github.com/silviodiasjr/happy.git
 
 # entre na pasta do projeto
 
@@ -93,9 +93,59 @@ $ npm start
 
 ```
 
-### 🌐 Executando o servidor do projeto
+### 🌐 Executando o backend do projeto
 
-> Em breve...
+Entre na pasta
+
+```bash
+
+$ cd backend
+
+```
+Instale as dependências
+
+```bash
+
+$ yarn install
+
+# ou, caso use npm
+
+$ npm install
+
+```
+
+Crie a pasta uploads e database
+
+```bash
+
+# criar pasta uploads
+$ backend/mkdir uploads
+
+# criar o database.sqlite
+$ backend/ cd src/ cd database/mkdir database.sqlite
+
+```
+
+Volte para pasta
+
+```bash
+
+$ backend/
+
+```
+
+
+Rode a aplicação
+
+```bash
+
+$ yarn dev
+
+# ou, caso use npm
+
+$ npm dev
+
+```
 
 ### 📱 Executando o projeto mobile 
 
@@ -110,7 +160,7 @@ Para utilizar  o mapbox siga as intruções abaixo.
 
 - Em "https://account.mapbox.com/", crie uma conta(é de graça) e copie seu token.
 - Na raiz do projeto web crie um arquivo chamado ".env"
-
+- Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
 ---
 
 ## 🛠️ Tecnologias
@@ -118,7 +168,14 @@ Para utilizar  o mapbox siga as intruções abaixo.
 Principais tecnologias utilizadas no desenvolvimento do projeto.
 
 #### Backend:
-> Em breve...
+- Typescript
+- Express
+- Express Async Errors
+- NodeJS
+- Cors
+- SqLite3
+- Multer
+- Yup
 
 #### Web:
 - Typescript
