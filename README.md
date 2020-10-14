@@ -53,7 +53,7 @@ Projeto construido durante a 3a NLW da [Rocketseat](https://rocketseat.com.br/).
 
 ```bash
 
-$ git clone https://github.com/silviodiasjr/happy.git
+$ git clone https://github.com/SilvioDiasJr/happy.git
 
 # entre na pasta do projeto
 
